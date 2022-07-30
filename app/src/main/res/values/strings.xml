@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Project 1</string>
+    <string name="teks_awal">Anila Dwi Lestari\nKelas JMP-A Telkom University</string>
+    <string name="teks_kalkulator">MASUKKAN DUA ANGKA</string>
+    <string name="teks_angka1">Masukkan Angka Pertama</string>
+    <string name="teks_angka2">Masukkan Angka Kedua</string>
+    <string name="teks_tambah">+</string>
+    <string name="teks_kurang">-</string>
+    <string name="teks_bagi">/</string>
+    <string name="teks_kali">X</string>
+    <string name="teks_bersihkan">BERSIHKAN</string>
+    <string name="teks_input_nama">Masukkan Nama Anda</string>
+    <string name="teks_tampilkan">TAMPILKAN</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="daftar_negara">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Italia</item>
+        <item>Inggris</item>
+        <item>Belanda</item>
+        <item>Argentina</item>
+        <item>Chile</item>
+        <item>Mesir</item>
+        <item>Uganda</item>
+        <item>Korea</item>
+        <item>Jepang</item>
+        <item>London</item>
+        <item>Brunei Darussalam</item>
+        <item>Denmark</item>
+    </string-array>
+</resources>
